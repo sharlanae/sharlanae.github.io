@@ -9,3 +9,7 @@ body {
     color: white;
     
 }
+p {
+    width: 500px;
+    margin: auto;
+}
