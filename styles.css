@@ -6,7 +6,6 @@ body {
 	background-color: #000000;
 }
 #name {
-	padding-top: 100px;
 	width: 1000px;
 	margin: auto;
 }
@@ -41,12 +40,12 @@ li > a:hover {
 footer {
 	color: white;
 	font-size: 10px;
-	margin-top:500px;
-	/*position: fixed;
+	/*margin-top:500px;*/
+	position: fixed;
     top: 97%;
     left: 50%;
     transform: translate(-65%, -50%); 
     margin: auto;
     width: 960px;
-    height: 50px; */
+    height: 50px; 
 }
