@@ -1,15 +1,44 @@
-img {
-    width: 500px;
-}
 body {
-    text-align: center; 
-    font-family: "Arial";
-    background-image: url(http://38.media.tumblr.com/3820a997449e2097999a3e4e219577b6/tumblr_nfivzidHVP1raievko1_500.gif);
-    background-repeat: repeat;
-    color: white;
-    
+	background-image: url("washdc.jpg");
+	background-size: cover;
+	font-family: Arial;
 }
-p {
-    width: 500px;
+#name {
+	width: 1000px;
+	margin: auto;
+}
+#logo {
+	float: right;
+	width: 80px;
+	padding: 10px 10px 10px 10px;
+	
+}
+#logo:hover {
+	opacity: 0.6;
+}
+li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-weight: bold;
+}
+li > a {
+	text-decoration: none;
+	color: white;
+	border-bottom: thick soild white;
+}
+
+li > a:hover {
+	font-weight: bold;
+	opacity: 0.3;
+}
+footer {
+	color: white;
+	font-size: 10;
+	position: fixed;
+    top: 97%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     margin: auto;
+    width: 960px;
+    height: 50px;
 }
