@@ -1,13 +1,13 @@
 body {
 	background-image: url("washdc.jpg");
-	background-size: cover;
+	/*background-size: cover;*/
 	font-family: Arial;
 	background-repeat: no-repeat; 
 	background-color: #000000;
 }
 #name {
 	padding-top: 100px;
-	width: 600px;
+	width: 1000px;
 	margin: auto;
 }
 #logo {
