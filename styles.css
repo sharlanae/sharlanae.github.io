@@ -6,7 +6,8 @@ body {
 	background-color: #000000;
 }
 #name {
-	width: 1000px;
+	padding-top: 100px;
+	width: 600px;
 	margin: auto;
 }
 #logo {
