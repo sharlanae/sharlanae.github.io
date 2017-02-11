@@ -54,8 +54,6 @@ li > a {
 }
 
 li > a:hover{
-    
-    
     color: black;
     opacity: 1;
 }
