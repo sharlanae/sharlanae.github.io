@@ -6,6 +6,12 @@ body {
 	background-color: #000000;
 	color: white;
 }
+
+h1 {
+    border-bottom: 2px solid white;
+    width: 100px;
+    margin: auto;
+}
 #projects {
     background-color: black;
     opacity: 0.3;
@@ -13,13 +19,17 @@ body {
     padding: 10px;
 }
 
+li {
+    font-weight: bold;
+}
+
 ul > li{
     font-size: 24px;
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin: 3px;
     opacity: 0.9;
     border: 2px solid white;
-    
     
 }
