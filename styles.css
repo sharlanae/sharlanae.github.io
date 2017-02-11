@@ -21,6 +21,7 @@ li {
 	display: inline-block;
 	padding: 0 25px 0 25px;
 	font-weight: bold;
+
 }
 li > a {
     font-size: 30px;
