@@ -9,8 +9,11 @@ body {
 
 h1 {
     border-bottom: 2px solid white;
-    width: 100px;
+    float: none;
     margin: auto;
+}
+h1 > a {
+    color: white;
 }
 #projects {
     background-color: black;
@@ -23,7 +26,7 @@ li {
     font-weight: bold;
 }
 
-ul > li{
+ul > li {
     font-size: 24px;
     color: white;
     padding-top: 10px;
@@ -31,5 +34,10 @@ ul > li{
     margin: 3px;
     opacity: 0.9;
     border: 2px solid white;
+}
+
+li > a {
+    color: white;
+    opacity: 1000;
     
 }
