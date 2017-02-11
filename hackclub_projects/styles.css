@@ -8,9 +8,10 @@ body {
 }
 
 h1 {
-    border-bottom: 2px solid white;
     float: none;
     margin: auto;
+    font-size: 30px;
+    padding: 10px;
 }
 h1 > a {
     color: white;
@@ -20,10 +21,13 @@ h1 > a {
     opacity: 0.3;
     border-radius: 10px;
     padding: 10px;
+    width: 200px;
 }
 
 li {
     font-weight: bold;
+    list-style-type: none;
+	text-align-last: center;
 }
 
 ul > li {
@@ -38,6 +42,6 @@ ul > li {
 
 li > a {
     color: white;
-    opacity: 1000;
+    text-decoration: none;
     
 }
