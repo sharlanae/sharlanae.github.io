@@ -11,4 +11,4 @@ function delegateKeypress(event) {
         $("#easy").trigger("click");
     
     }
-}
+} 
