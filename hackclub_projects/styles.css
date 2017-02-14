@@ -34,7 +34,7 @@ h1 > a:hover {
 li {
     font-weight: bold;
     list-style-type: none;
-	text-align-last: center;
+	text-align: center;
 }
 
 ul > li {
