@@ -16,7 +16,8 @@ h1 > a {
 h1 > a:hover {
     opacity: 0.3;
 }
-p {
-    width: 400;
-    text-align: center;
+#about {
+    margin:auto;
+    width: 400px;
+  
 }
