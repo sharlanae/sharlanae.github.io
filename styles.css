@@ -17,7 +17,7 @@ body {
 #logo:hover {
 	opacity: 0.6;
 }
-li {
+li { 
 	display: inline-block;
 	padding: 0 25px 0 25px;
 	font-weight: bold;
