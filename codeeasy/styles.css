@@ -1,0 +1,26 @@
+body{
+    background-color: #cbeef3;
+    background: linear-gradient(to right, rgb(20,156,187), rgb(221,45,74));
+}
+ 
+h1{ 
+    font-size: 200px;
+    text-align: center;
+    color: #ffffff;
+    margin: 10px 10px 10px 10px;
+    
+} 
+li { text-align: center;
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-weight: bold;
+
+}
+
+li > a {
+    font-size: 30px;
+	text-decoration: none;
+	color: white;
+	border-bottom: 2px solid white;
+	
+}
