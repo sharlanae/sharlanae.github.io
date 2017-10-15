@@ -4,3 +4,11 @@ body {
 	background-repeat: no-repeat; 
 	background-color: #000000;
 }
+#resume { 
+    background-color: #ffffff;
+    /*background: rgb(255, 255, 255);*/
+    background: rgba(255, 255, 255, .6);
+}
+h2 {
+    font-weight: bold;
+}
