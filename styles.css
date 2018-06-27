@@ -1,9 +1,10 @@
 body {
-	background-image: url("washdc.jpg");
+	background-image: url("colorful2048.jpg");
 	/*background-size: cover;*/
 	font-family: Arial;
-	background-repeat: no-repeat; 
+	/*background-repeat: no-repeat; */
 	background-color: #000000;
+	color: white;
 }
 #name {
 	width: 1000px;
